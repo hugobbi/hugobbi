@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="150px" width="150px" src="gifs/nice.gif"/>
 
-- 📚️ Currently studying Computer Science at [Universidade Federal do Rio Grande do Sul](http://www.ufrgs.br/ufrgs/inicial)
-- 🔬️ Undergraduate researcher in computational neuroscience
-- 🤖️ Completed research in multi-agent reinforcement learning at [MASLAB-UFRGS](https://www.inf.ufrgs.br/maslab/maslab/)
+- 📚️ Currently studying Computer Science at [RPTU](https://rptu.de/)
+- 🔬️ Researcher in embedded machine learning
+- 🤖️ Completed research in multi-agent reinforcement learning at [MASLAB-UFRGS](https://www.inf.ufrgs.br/maslab/maslab/) and in computational neuroscience
 - 🪐️ Interested in artificial intelligence, image processing, astrophysics, computational biology and computational neuroscience
 - 🌌️ I'm a curious person, passionate about science, education and open source
 - 📫️ How to reach me: hgugobbi@gmail.com
